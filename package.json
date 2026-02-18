@@ -1,0 +1,11 @@
+{
+  "name": "mendixdemo",
+  "version": "1.0.0",
+  "description": "Responsive app library platform with role-based authentication",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node --test"
+  }
+}
