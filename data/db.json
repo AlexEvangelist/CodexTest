@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "u-admin",
+      "username": "admin",
+      "role": "admin",
+      "passwordHash": "004c7c43c903ad2cd4f49b43b9854602:1ed7734aff18b1ab84ce0de8a8893b0624faf0228b579bbb3d114b4f05fc4c45c1fb9a807b2356ca34bf2a83582821abbc658b1cdcc05049ad7fedda1f67f811"
+    },
+    {
+      "id": "u-user",
+      "username": "user",
+      "role": "user",
+      "passwordHash": "18b9375e51be23c33fbecbc652066907:09f74846697589ec7ee75d13535d542cc68600bae14f952291633821a73b7b22997473eb58aa7ac17d6ae577a28a1d3a8423dd37d178c2dfe27bb73517add559"
+    }
+  ],
+  "apps": [
+    {
+      "id": "ade2e929-14d0-4af2-bef1-e1a07a5df103",
+      "title": "Starter CRM",
+      "description": "Prebuilt CRM app starter template.",
+      "version": "1.0.0",
+      "category": "Business",
+      "tags": [
+        "crm",
+        "starter"
+      ],
+      "uploadDate": "2026-02-18T12:38:25.644Z",
+      "fileType": "url",
+      "downloadUrl": "https://example.com/starter-crm",
+      "isPublished": true,
+      "featured": true,
+      "views": 0
+    }
+  ]
+}
